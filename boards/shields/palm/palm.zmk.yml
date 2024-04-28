@@ -1,0 +1,11 @@
+file_format: "1"
+id: palm
+name: Palm
+type: shield
+url: https://github.com/lotem/palm
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - palm_left
+  - palm_right
